@@ -1,0 +1,11 @@
+Crawling took 13991.414571167 seconds
+Banksoopy Brickle is onhttp://djp3.westmont.edu/gutenberg/index.php
+http://djp3.westmont.edu/gutenberg/library/library.html
+
+Number of pages with the following words:
+	foolishness: 1165
+	deity: 1284
+	assassination: 709
+Unique Links: 14693
+Number of unique words found: 420935
+Space taken up by tuples: 786432 bytes
