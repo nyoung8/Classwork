@@ -71,8 +71,10 @@ public class PoliticalTwitter {
 
 		// Creates an array of all tweets that contain the search term
 		ArrayList<String> searchTweets=new ArrayList<String>();
+		
 		for(Status tweet:statuses) {
 			String message=tweet.getText();
+			tweet.compareTo(tweet);
 			if(message.toLowerCase().contains(SEARCHTERM.toLowerCase())) {
 				searchTweets.add(message);
 			}
